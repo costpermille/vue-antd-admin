@@ -45,3 +45,10 @@ $ yarn start
 该项目由仓主在业余由兴趣驱动完成，仍在不断开发完善中。详见：[开发进度](https://github.com/iczer/vue-antd-admin/projects/1)
 
 如有任何疑问或功能需求，欢迎 [Issue](https://github.com/iczer/vue-antd-admin/issues)。
+
+
+## English translation
+A Vue.js out of the box frontend utilising [Ant Design Pro](https://github.com/ant-design/ant-design-pro). 
+
+[Live demo](https://iczer.gitee.io/vue-antd-pro) | [Screenshot](https://github.com/iczer/vue-antd-admin/blob/master/static/img/preview.jpg)
+
